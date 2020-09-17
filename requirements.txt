@@ -4,3 +4,4 @@ sklearn
 imblearn
 mlxtend
 matplotlib
+statsmodels
